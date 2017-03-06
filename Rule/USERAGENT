@@ -44,6 +44,7 @@ PROCESS-NAME,Thunder,DIRECT
 PROCESS-NAME,WeChat,DIRECT
 
 // User-agent
+USER-AGENT,myTuner Radio*,Proxy
 USER-AGENT,*Tumblr*,Proxy
 USER-AGENT,*YouTube*,Proxy
 USER-AGENT,CodeHub*,Proxy
